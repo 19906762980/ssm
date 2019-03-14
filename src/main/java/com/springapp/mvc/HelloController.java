@@ -13,6 +13,6 @@ public class HelloController {
     @ResponseBody
     public String printWelcome() {
     
-        return "nima";
+        return "vvv";
     }
 }
