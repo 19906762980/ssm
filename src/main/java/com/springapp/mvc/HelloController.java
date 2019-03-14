@@ -12,7 +12,7 @@ public class HelloController {
     @RequestMapping(method = RequestMethod.GET)
     @ResponseBody
     public String printWelcome() {
-
-        return "hello";
+    
+        return "helloword";
     }
 }
